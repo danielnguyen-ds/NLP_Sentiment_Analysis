@@ -3,5 +3,5 @@
 
 Different ML techniques/models will be applied to solve the problem:
 - Supervised learning techniques: Naive Bayes, Logistic Regression, Support Vector Machines 
-- Unsupervised learning techniques: Afinn, SentiWordNet, and VADER
+- Unsupervised learning techniques: , AFINN Lexicon, SentiWordNet, and VADER
 - Deep learning models: DNNs, RNNs, and LSTMs
